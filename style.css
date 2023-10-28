@@ -1,0 +1,17 @@
+.box{
+    width: 550px;
+    height: 550px;
+    border: 1px solid gray;
+    padding-top: 90px;
+    padding-left: 119px;
+}
+.text1{
+    color: gray;
+}
+.photo{
+    width: 305px;
+    height: 226px;
+}
+.text2{
+    color: blue;
+}
